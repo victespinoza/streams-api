@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "my first stream",
+      "description": "this stream is awesome",
+      "id": 1
+    },
+    {
+      "title": "qwe",
+      "description": "qwe",
+      "id": 2
+    },
+    {
+      "title": "creating stream",
+      "description": "asdsa",
+      "userId": "112878463486049619787",
+      "id": 3
+    }
+  ]
+}
